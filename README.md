@@ -59,4 +59,3 @@ The notebook downloads the [credit card fraud dataset](https://www.kaggle.com/da
 
 The dataset covers two days of transactions from 2013 and the features are anonymised PCA components, so I could not look at which real features matter. The test set only has 99 fraud cases, so one or two more caught or missed changes recall by one to two points. The threshold is chosen by F1, which treats a missed fraud and a false alarm as equally bad, and a real bank would weigh these differently.
 
-This was written by AI for learning practice.
